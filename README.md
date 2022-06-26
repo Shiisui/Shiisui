@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📌Currently learning with @TheOdinProject
+- 📌Currently learning with 'The Odin Project'
 - 🔴Learning Ruby and Ruby on Rails
 - 🕜Time spent coding this year: 372 hours
