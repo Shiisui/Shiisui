@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 📌Currently learning with 'The Odin Project'
 - 🔴Learning Ruby and Ruby on Rails
-- 🕜Time spent coding this year: 372 hours
+- 🕜Time spent coding this year: 376 hours
