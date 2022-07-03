@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 🔭 I’m looking for a job as Web Developer 
+- 🔭 I’m looking for a job as **Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aleksandar-code](https://github.com/aleksandar-code)
 
