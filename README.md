@@ -1,31 +1,24 @@
 <h1 align="center">Hi 👋, I'm Aleksandar</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandar-code&label=Profile%20views&color=0e75b6&style=flat" alt="aleksandar-code" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksandar-code" alt="aleksandar-code" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aleksandar_code" target="blank"><img src="https://img.shields.io/twitter/follow/aleksandar_code?logo=twitter&style=for-the-badge" alt="aleksandar_code" /></a> </p>
 
+- 🏫 I’m currently learning on [@TheOdinProject](https://www.theodinproject.com/)
 
-- 🔭 I’m currently working on **...**
+- 🌱 I’m currently learning **Ruby on Rails**
 
-- 🌱 I’m currently learning **Ruby on rails, JavaScript**
-
-- 👯 I’m looking to collaborate on **Open source**
-
-- 🤝 I’m looking for help with **...**
+- 🔭 I’m looking for a job as Web Developer 
 
 - 👨‍💻 All of my projects are available at [https://github.com/aleksandar-code](https://github.com/aleksandar-code)
 
 - 📝 I regularly write articles on [https://twitter.com/aleksandar_code](https://twitter.com/aleksandar_code)
 
-- 💬 Ask me about **...**
-
-- 📫 How to reach me **https://twitter.com/aleksandar_code**
-
-- 📄 Know about my experiences [..](..)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@aleksandar_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aleksandar_code" height="30" width="40" /></a>
+<a href="https://twitter.com/aleksandar_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aleksandar_code" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aleksandar_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aleksandar_code" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
