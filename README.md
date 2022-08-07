@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/aleksandar_code" target="blank"><img src="https://img.shields.io/twitter/follow/aleksandar_code?logo=twitter&style=for-the-badge" alt="aleksandar_code" /></a> </p>
 
-- 🏫 I’m currently learning on [@TheOdinProject](https://www.theodinproject.com/)
+- 🏫 I’m currently learning at [@TheOdinProject](https://www.theodinproject.com/)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 Language i'm learning now **Ruby on Rails**
 
 - 🔭 I’m looking for a job as **Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aleksandar-code](https://github.com/aleksandar-code)
 
-- 📝 I regularly write articles on [https://twitter.com/aleksandar_code](https://twitter.com/aleksandar_code)
+- 📝 My journey to becoming a Web Developer [https://twitter.com/aleksandar_code](https://twitter.com/aleksandar_code)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
