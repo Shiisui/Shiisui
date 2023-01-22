@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aleksandar</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandar-code&label=Profile%20views&color=0e75b6&style=flat" alt="aleksandar-code" /> </p>
-
-<p align="left"> <a href="https://twitter.com/aleksandar_code" target="blank"><img src="https://img.shields.io/twitter/follow/aleksandar_code?logo=twitter&style=for-the-badge" alt="aleksandar_code" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/aleksandar-code](https://github.com/aleksandar-code)
 
 - 📝 My journey to becoming a Web Developer [https://twitter.com/aleksandar_code](https://twitter.com/aleksandar_code)
