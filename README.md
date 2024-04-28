@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aleksandar-code](https://github.com/aleksandar-code)
 
-- 📝 My journey to becoming a Web Developer [https://twitter.com/aleksandar_code](https://twitter.com/aleksandar_code)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aleksandar_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aleksandar_code" height="30" width="40" /></a>
